@@ -1,0 +1,30 @@
+{
+  "pyprland": {
+    "plugins": [
+      "scratchpads",
+      "monitors",
+      "workspaces_follow_focus"
+    ]
+  },
+  "scratchpads": {
+    "term": {
+      "command": "kitty --class kitty-dropterm -o background_opacity=1",
+      "unfocus": "hide",
+      "animation": "fromTop"
+    },
+    "volume": {
+      "command": "pavucontrol",
+      "unfocus": "hide",
+      "margin" : 50,
+      "animation": "fromTop"
+    }
+  },
+  "monitors": {
+    "placement": {
+      "BenQ PJ": {
+        "topOf": "eDP-1"
+      }
+    },
+    "unknown": "wlrlui"
+  }
+}
