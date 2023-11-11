@@ -1,0 +1,71 @@
+// __        __          _                 
+// \ \      / /_ _ _   _| |__   __ _ _ __  
+//  \ \ /\ / / _` | | | | '_ \ / _` | '__| 
+//   \ V  V / (_| | |_| | |_) | (_| | |    
+//    \_/\_/ \__,_|\__, |_.__/ \__,_|_|    
+//                 |___/                   
+//  
+// by Stephan Raabe (2023) 
+// ----------------------------------------------------- 
+//
+{
+    // General Settings
+
+    // Position TOP
+    "layer": "top",
+    "margin-top": 5,
+    "margin-bottom": -2,
+
+    // Position BOTTOM
+    // "position": "bottom",
+    // "margin-top": 0,
+    // "margin-bottom": 14,
+    
+    "layer": "top",
+    //"height": 16,
+    "margin-left": 0,
+    "margin-right": 0,    
+    "spacing": 0,
+
+    // Load Modules
+    "include": ["~/.config/waybar/modules.json"],
+
+    // Modules Left
+    "modules-left": [
+        "custom/showlayout",
+        //"custom/appmenu",
+        "wlr/taskbar",
+        "hyprland/window"
+    ],
+
+    // Modules Center
+    "modules-center": [
+        "hyprland/workspaces"
+    ],
+
+    // Modules Right    
+    "modules-right": [
+        "custom/spotify",
+        "pulseaudio",
+        "bluetooth",
+        "battery",
+        "group/hardware",
+        "network",
+        "keyboard-state",
+        //"custom/exit",
+        "clock"
+    ],
+
+
+
+    // Group Hardware
+    "group/hardware": {
+        "orientation": "horizontal",
+        "modules": [
+            "disk",
+            "cpu",
+            "memory"
+        ]
+    }
+}
+

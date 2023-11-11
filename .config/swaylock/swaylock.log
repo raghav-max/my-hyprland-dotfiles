@@ -1,0 +1,46 @@
+2023-11-07 14:23:56 - [main.c:1813] Found config at /home/raghav/.config/swaylock/config
+2023-11-07 14:23:56 - [main.c:1701] Config Line #1: daemonize
+2023-11-07 14:23:56 - [main.c:1701] Config Line #2: show-failed-attempts
+2023-11-07 14:23:56 - [main.c:1701] Config Line #3: clock
+2023-11-07 14:23:56 - [main.c:1701] Config Line #4: screenshot
+2023-11-07 14:23:56 - [main.c:1701] Config Line #5: effect-blur=15x15
+2023-11-07 14:23:56 - [main.c:1701] Config Line #6: effect-vignette=1:1
+2023-11-07 14:23:56 - [main.c:1701] Config Line #7: color=1f1d2e80
+2023-11-07 14:23:56 - [main.c:1701] Config Line #8: font="Inter"
+2023-11-07 14:23:56 - [main.c:1701] Config Line #9: indicator
+2023-11-07 14:23:56 - [main.c:1701] Config Line #10: indicator-radius=200
+2023-11-07 14:23:56 - [main.c:1701] Config Line #11: indicator-thickness=20
+2023-11-07 14:23:56 - [main.c:1701] Config Line #12: line-color=1f1d2e
+2023-11-07 14:23:56 - [main.c:1701] Config Line #13: ring-color=191724
+2023-11-07 14:23:56 - [main.c:1701] Config Line #14: inside-color=1f1d2e
+2023-11-07 14:23:56 - [main.c:1701] Config Line #15: key-hl-color=eb6f92
+2023-11-07 14:23:56 - [main.c:1701] Config Line #16: separator-color=00000000
+2023-11-07 14:23:56 - [main.c:1701] Config Line #17: text-color=e0def4
+2023-11-07 14:23:56 - [main.c:1701] Config Line #18: text-caps-lock-color=""
+2023-11-07 14:23:56 - [main.c:60] Invalid color "", defaulting to 0xFFFFFFFF
+2023-11-07 14:23:56 - [main.c:1701] Config Line #19: line-ver-color=eb6f92
+2023-11-07 14:23:56 - [main.c:1701] Config Line #20: ring-ver-color=eb6f92
+2023-11-07 14:23:56 - [main.c:1701] Config Line #21: inside-ver-color=1f1d2e
+2023-11-07 14:23:56 - [main.c:1701] Config Line #22: text-ver-color=e0def4
+2023-11-07 14:23:56 - [main.c:1701] Config Line #23: ring-wrong-color=31748f
+2023-11-07 14:23:56 - [main.c:1701] Config Line #24: text-wrong-color=31748f
+2023-11-07 14:23:56 - [main.c:1701] Config Line #25: inside-wrong-color=1f1d2e
+2023-11-07 14:23:56 - [main.c:1701] Config Line #26: inside-clear-color=1f1d2e
+2023-11-07 14:23:56 - [main.c:1701] Config Line #27: text-clear-color=e0def4
+2023-11-07 14:23:56 - [main.c:1701] Config Line #28: ring-clear-color=9ccfd8
+2023-11-07 14:23:56 - [main.c:1701] Config Line #29: line-clear-color=1f1d2e
+2023-11-07 14:23:56 - [main.c:1701] Config Line #30: line-wrong-color=1f1d2e
+2023-11-07 14:23:56 - [main.c:1701] Config Line #31: bs-hl-color=31748f
+2023-11-07 14:23:56 - [main.c:1701] Config Line #32: grace=2
+2023-11-07 14:23:56 - [main.c:1701] Config Line #33: grace-no-mouse
+2023-11-07 14:23:56 - [main.c:1701] Config Line #34: grace-no-touch
+2023-11-07 14:23:56 - [main.c:1701] Config Line #35: datestr=%a, %B %e
+2023-11-07 14:23:56 - [main.c:1701] Config Line #36: timestr=%I:%M %p
+2023-11-07 14:23:56 - [main.c:1701] Config Line #37: fade-in=0.1
+2023-11-07 14:23:56 - [main.c:1701] Config Line #38: ignore-empty-password
+2023-11-07 14:23:56 - [main.c:1823] Parsing CLI Args
+2023-11-07 14:23:56 - [main.c:680] output name is eDP-1
+2023-11-07 14:23:56 - [main.c:641] Loaded screenshot for output eDP-1
+2023-11-07 14:23:56 - [main.c:1910] Using ext-session-lock-v1
+2023-11-07 14:24:04 - [pam.c:101] pam_authenticate failed: invalid credentials
+2023-11-07 14:24:09 - [pam.c:101] pam_authenticate failed: invalid credentials
